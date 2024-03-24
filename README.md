@@ -18,7 +18,7 @@
 <p align="left"> 
 <a href="" target="blank"></a>
 </p>
-<h5 align="left">Tools | Languages</h5>
+<h5 align="left"
 <p align="left"> 
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
