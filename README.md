@@ -3,7 +3,7 @@
 
 <h5 align="left">Contact: github_130sf@mdens.com</h5>
 <p align="left">
-<a href="" target="blank"><img align="center" src="" alt="" height="30" width="40" /></a>
+
 </p>
 <h5 align="left">..some Samples:</h5>
 <p align="left"> 
